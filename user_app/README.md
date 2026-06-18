@@ -5,5 +5,5 @@ user_app/
 ├── db_layer.c          # Database connections & low-level queries (C)
 ├── UserEngine.hpp      # Business logic class definition (C++)
 ├── UserEngine.cpp      # Business logic implementation (C++)
-└── main.cpp            # Application entry point (C++)
+├── main.cpp            # Application entry point (C++)
 └── README.md           # Repository Documentation
