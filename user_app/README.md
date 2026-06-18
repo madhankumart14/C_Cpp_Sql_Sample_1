@@ -6,3 +6,4 @@ user_app/
 ├── UserEngine.hpp      # Business logic class definition (C++)
 ├── UserEngine.cpp      # Business logic implementation (C++)
 └── main.cpp            # Application entry point (C++)
+└── README.md           # Repository Documentation
